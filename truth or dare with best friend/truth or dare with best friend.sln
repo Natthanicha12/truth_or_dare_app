@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "truth or dare with best friend", "truth or dare with best friend\truth or dare with best friend.csproj", "{10ADCE67-3E67-42E2-8891-BAB73B1E0984}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "truth_or_dare_wf", "truth_or_dare_wf\truth_or_dare_wf.vdproj", "{E4014DDA-7D06-B36C-D9FD-45E215191D84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10ADCE67-3E67-42E2-8891-BAB73B1E0984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10ADCE67-3E67-42E2-8891-BAB73B1E0984}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10ADCE67-3E67-42E2-8891-BAB73B1E0984}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10ADCE67-3E67-42E2-8891-BAB73B1E0984}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4014DDA-7D06-B36C-D9FD-45E215191D84}.Debug|Any CPU.ActiveCfg = Debug
+		{E4014DDA-7D06-B36C-D9FD-45E215191D84}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC3992E9-7A21-4F47-8ED7-1075D0EE2EA5}
+	EndGlobalSection
+EndGlobal
